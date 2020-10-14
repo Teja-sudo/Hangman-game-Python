@@ -1,0 +1,52 @@
+aerology,study of the atmosphere
+aeronautics,study of navigation through air or space
+botany,study of plants
+apiology,study of bees
+archaeology,study of human material remains
+astrology,study of influence of stars on people
+astronomy,study of celestial bodies
+astrophysics,study of behaviour of interstellar matter
+audiology,study of hearing
+biology,study of life
+biometrics,study of biological measurement
+botany,study of plants
+cardiology,study of the heart
+chemistry,study of properties of substances
+cryptology,study of codes
+dermatology,study of skin
+geography,study of surface of the earth and its inhabitants
+geology,study of earth's crust
+mathematics,study of magnitude number and forms
+zoology,study of animals
+algorithm,pseudocode
+template,something that establishes or serves as a pattern
+flowchart,a diagram which shows visually how something will work
+ethics,deciding what is morally right and wrong
+privacy,keeping yourself and your personal information data safe
+teamwork,working together cooperatively
+sequence,order in which a set of operations is performed
+integer,a data type 
+floating,a data type
+boolean,a simple data type having just two possible values
+syntax,refers to the spelling and grammar of a programming language
+binary,numbers expressed in the base of two
+ternary,numbers expressed in the base of three
+octal,numbers expressed in the base of eight
+decimal,numbers expressed in the base of 10
+hexadecimal,numbers expressed in the base of sixteen
+debug,find and eliminate errors in a computer program
+equation,a statement that the values of two mathematical expressions where LHS=RHS
+byte,memory unit
+kilobyte,memory unit
+megabyte,memory unit
+gigabyte,memory unit
+terabyte,memory unit
+petabyte,memory unit
+abstraction,hides internal details
+software,is a collection of data or computer instructions that tell the computer how to work
+graphics,pictures and films created using computers
+argument,a value provided to a function when the function is called
+interpreter,is a program that executes an instruction at a time.
+YouTube,the world of video
+Database,a systematic collection of data
+bandwidth,the maximum rate of data transfer across a given path
