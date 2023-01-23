@@ -1,6 +1,6 @@
 HANGMAN game using python programming language
 
-***First Run status.py(sign in and sign up) file only***
+***First Run status.py(sign in and sign up) file***
 
 # -*- coding: utf-8 -*-
 """
